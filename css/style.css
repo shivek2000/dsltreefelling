@@ -166,7 +166,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     margin-top: 14em;
 }
 .agileits-banner-info p {
-    color: #f90;
+    color: #ffc300;
     font-size: 1em;
     line-height: 1.8em;
     letter-spacing: 11px;
@@ -231,7 +231,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 	min-height:780px;
 }
 .w3layouts-banner-top1{
-	background: url(../images/2.jpg) no-repeat 0px 0px;
+	background: url(../images/1.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -240,7 +240,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 	min-height:780px;
 }
 .w3layouts-banner-top2{
-	background: url(../images/3.jpg) no-repeat 0px 0px;
+	background: url(../images/1.jpg) no-repeat 0px 0px;
     background-size: cover;	
 	-webkit-background-size: cover;	
 	-moz-background-size: cover;
@@ -523,7 +523,7 @@ p.sub-text.one {
 	    background: #000;
 }
 .ab-w3-agile-part p {
-    color: #fff;
+    color: #ffffff;
 }
 .agileits_w3layouts_more.menu__item.one a {
     color: #6a67ce;
@@ -540,7 +540,7 @@ p.sub-text.one {
 }
 .ab-w3-agile-part h4 {
     font-size: 1.5em;
-    color: #fff;
+    color: #000000;
     letter-spacing: 1px;
     text-transform: uppercase;
     font-weight: 700;
@@ -623,7 +623,7 @@ p.sub-text.one {
 /*-- //classes--*/
 /*--test--*/
 #monials {
-	background: url(../images/3.jpg)no-repeat 0px 0px;
+	background: url(../images/1.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -783,7 +783,7 @@ figure {
 /*--services--*/
 
 .services_wthree-grid,.services_wthree-grid.one {
-    background: url(../images/p1.jpg) no-repeat 0px 0px;
+    background: url(../images/a1.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -794,7 +794,7 @@ figure {
   padding: 3.5em 3em;
 }
 .services_wthree-grid.one {
-	background: url(../images/p3.jpg) no-repeat 0px 0px;
+	background: url(../images/a2.jpg) no-repeat 0px 0px;
 	 background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -805,7 +805,7 @@ figure {
    padding: 3.5em 3em;
 }
 .services_wthree-grid.agile{
-	background: url(../images/ab.jpg) no-repeat 0px 0px;
+	background: url(../images/stumppoisoning.jpg) no-repeat 0px 0px;
 	 background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -939,7 +939,7 @@ figure {
 
 /*-- Contact --*/
 .contact {
-       background: url(../images/2.jpg)no-repeat 0px 0px;
+       background: url(../images/1.jpg)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -983,7 +983,7 @@ h3.title-w3.three {
     height: 50px;
     border: 1px solid #424141;
     margin: 0 0 20px;
-       background: rgba(14, 14, 14, 0.64);
+       background: rgb(14, 14, 14);
 	letter-spacing:1px;
 }
 
@@ -1001,7 +1001,7 @@ h3.title-w3.three {
 	color: #FFF;
 	height: 190px;
 	border: 1px solid #424141;
-      background: rgba(14, 14, 14, 0.64);
+      background: rgb(14, 14, 14);
 	letter-spacing:1px;
 }
 
@@ -1772,7 +1772,7 @@ section.social ul li {
 	}
 	.agileits-banner-info {
 		padding: 5em 2em;
-		border:18px solid rgba(230, 227, 227, 0.21);
+		border:18px solid rgba(53, 255, 113, 0.53);
 		margin-top: 11em;
 	}
 	.services_wthree-inner.two {
